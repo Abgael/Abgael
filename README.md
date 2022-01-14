@@ -6,8 +6,8 @@
 - 📫 How to reach me ...
 -->
 
-Cursos gratuítos para aqueles que pretendem dar o primeiro passo na área de programação.
-Com exceção dos cursos da plataforma Coursera, todos os demais aqui listados oferecem emissão gratuíta de certificado.
+Cursos gratuitos para aqueles que pretendem dar o primeiro passo na área de programação.
+Com exceção dos cursos da plataforma Coursera, os demais aqui listados oferecem emissão de certificado sem qualquer cobrança adicional.
 
 ### Algoritmo e Python básico
  * [Fundamentos de Lógica de Programação](https://www.ev.org.br/cursos/fundamentos-de-logica-de-programacao) - TODO
