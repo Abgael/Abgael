@@ -28,6 +28,7 @@ Com exceção dos cursos da plataforma Coursera, os demais aqui listados oferece
 ### Cursos diversos
  * [Movimento Brasil Digital EU CAPACITO ](https://on.fiap.com.br/local/movimentobrasildigital/) - TODO
  * [Escola do Trabalhador 4.0](https://news.microsoft.com/pt-br/escola-do-trabalhador-4-0/) - TODO
+ * [Grasshopper](https://grasshopper.app/pt_br/) - TODO
 
 <!---
 Abgael/Abgael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
