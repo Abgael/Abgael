@@ -11,6 +11,7 @@ Com exceção dos cursos da plataforma Coursera, os demais aqui listados oferece
 
 ### Algoritmo e Python básico
  * [Fundamentos de Lógica de Programação](https://www.ev.org.br/cursos/fundamentos-de-logica-de-programacao) - TODO
+ * [Entenda os conceitos básicos da codificação](https://learndigital.withgoogle.com/ateliedigital/course/basics-code) - TODO
  * [Aprendendo com Python](https://www.escolavirtual.gov.br/curso/629) - TODO
  * [Linguagem de Programação Python - Básico](https://www.ev.org.br/cursos/linguagem-de-programacao-python-basico) - TODO
  * [Introdução à Ciência da Computação com Python Parte 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) - TODO
