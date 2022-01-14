@@ -6,7 +6,7 @@
 - 📫 How to reach me ...
 -->
 
-Cursos gratuitos para aqueles que pretendem dar o primeiro passo na área de programação.
+Cursos gratuitos para aqueles que pretendem dar os primeiros passos na área de programação.
 Com exceção dos cursos da plataforma Coursera, os demais aqui listados oferecem emissão de certificado sem qualquer cobrança adicional.
 
 ### Algoritmo e Python básico
@@ -17,7 +17,7 @@ Com exceção dos cursos da plataforma Coursera, os demais aqui listados oferece
  * [Introdução à Ciência da Computação com Python Parte 2](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2) - TODO
 
 
-### Programação Orientada a Objetos e Java
+### Java e Programação Orientada a Objetos
  * [Introdução à Programação Orientada a Objetos (POO)](https://www.ev.org.br/cursos/introducao-a-programacao-orientada-a-objetos-poo) - TODO
  * [Linguagem de Modelagem Unificada (UML)](https://www.ev.org.br/cursos/linguagem-de-modelagem-unificada-uml) - TODO
  * [Linguagem de Programação Java - Básico](https://www.ev.org.br/cursos/linguagem-de-programacao-java-basico) - TODO
