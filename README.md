@@ -26,15 +26,24 @@ Com exceção dos cursos da plataforma Coursera, os demais aqui listados oferece
  * [Laboratório de Programação Orientada a Objetos - Parte 1](https://www.coursera.org/learn/lab-poo-parte-1) - pt_BR
  * [Laboratório de Programação Orientada a Objetos - Parte 2](https://www.coursera.org/learn/lab-poo-parte-2) - pt_BR
 
+### JavaScript e Desenvolvimento Web
+ * [Grasshopper](https://grasshopper.app/pt_br/) - en_US
+ * [JavaScript Essentials 1 (JSE)](https://www.netacad.com/pt-br/courses/programming/javascript-essentials-1) - en_US
+ * [Spring Boot and Microservices](https://learning.customerconnect.vmware.com/oltpublish/site/program.do?dispatch=showCourseSession&id=a1e0a72c-819d-11eb-8643-0cc47adeb5f8) - en_US
+ * [Build, containerize, and deploy Spring Boot apps on Google Cloud](https://developers.google.com/learn/pathways/java-cloud-fundamentals) - en_US
+ * [Build cross-platform apps with Angular](https://developers.google.com/learn/pathways/cross-platform-apps-with-angular) - en_US
+ * [Use Spring Boot to quickly create apps for Google Cloud](https://developers.google.com/learn/pathways/springboot-google-cloud) - en_US
+
 ### Cursos diversos
  * [Movimento Brasil Digital EU CAPACITO ](https://on.fiap.com.br/local/movimentobrasildigital/) - pt_BR
  * [Escola do Trabalhador 4.0](https://news.microsoft.com/pt-br/escola-do-trabalhador-4-0/) - pt_BR
  * [EaD IFRS](https://moodle.ifrs.edu.br/course/index.php?categoryid=79) - pt_BR
- * [Oracle Learning Explorer](https://education.oracle.com/pt_BR/learning-explorer)
- * [Grasshopper](https://grasshopper.app/pt_br/) - en_US
+ * [Oracle Learning Explorer](https://education.oracle.com/pt_BR/learning-explorer) - en_US
+ * [CPA: Programming Essentials in C++](https://www.netacad.com/pt-br/courses/programming/essentials-programming-c-plus-plus) - en_US
  * [TwilioQuest](https://www.twilio.com/quest) - en_US
- * [Packet Tracer](https://www.netacad.com/pt-br/courses/packet-tracer) - en_US
- * [Kubernetes e Serviços em Nuvem](https://kubernetes.io/training/) - en_US
+ * [Cisco Packet Tracer](https://www.netacad.com/pt-br/courses/packet-tracer) - en_US
+ * [Kubernetes Fundamentals](https://learning.customerconnect.vmware.com/oltpublish/site/program.do?dispatch=showCourseSession&id=663f8ec8-4078-11eb-8643-0cc47adeb5f8) - en_US
+ * [Kubernetes, Nuvem e Linux](https://kubernetes.io/training/) - en_US
 
 ### Ferramentas
  * [Google Colab](https://colab.research.google.com/) - pt_BR
