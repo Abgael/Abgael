@@ -49,6 +49,10 @@ Com exceção dos cursos da plataforma Coursera, os demais aqui listados oferece
  * [Google Colab](https://colab.research.google.com/) - pt_BR
  * [Replit](https://replit.com/) - en_US
 
+### Materiais de apoio
+ * [Apostilas Caelum](https://www.caelum.com.br/apostilas) - pt_BR
+ * [Aulas de Introdução à Computação em Python](https://panda.ime.usp.br/aulasPython/static/aulasPython/index.html) - pt_BR
+
 <!---
 Abgael/Abgael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
